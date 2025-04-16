@@ -5,7 +5,13 @@
 
 ## 🧑‍💻 Batch Details
 - **Batch Number:** G10 CS
-- **Department:** Computer Science / Information Technology
+- **Course Name:** Cybersecurity and ethical hacking
+
+## 👥 Team Members
+- Nadipena Varunkumar  
+
+## 👥 Mentor Name
+- Nishchay Gaba
 
 ## 📝 Project Description
 This project focuses on conducting systematic penetration testing on publicly available IP addresses to assess network security posture. It involves identifying vulnerabilities, misconfigurations, and weaknesses in network infrastructure components such as firewalls, routers, and servers. The goal is to enhance awareness of potential security risks and provide actionable insights to secure systems effectively.
@@ -41,8 +47,6 @@ This project focuses on conducting systematic penetration testing on publicly av
 ## 🛡️ Ethical Considerations
 > All tests were conducted in a legal and ethical manner, ensuring proper authorization was obtained prior to testing. This project is strictly for educational and research purposes.
 
-## 👥 Team Members
-- Nadipena Varunkumar  
-*(Add additional team members if any)*
 
-## 🗂️ Project Tags
+
+
